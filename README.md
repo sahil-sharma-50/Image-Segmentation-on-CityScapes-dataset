@@ -56,6 +56,8 @@ For example:
   python eval/compute_IOU.py Predictions groundTruth 
   ```
 
+### After training this base model, you can fine tuned this model on Mapillary Dataset. Follow link: <a href="https://github.com/sahil-sharma-50/Route-Navigation-for-Visually-Impaired"> Route Navigation Repo </a>, there run training_pipeline.py script.
+
  `Output`:
  ```sh
     Base Model metrics trained on Cityscapes dataset:
